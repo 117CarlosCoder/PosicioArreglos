@@ -44,7 +44,7 @@ void posicion(int indices[], int tamanios[], int tamanoIndices, int tamanoArrays
 
 int main() {
 
-    std::cout << "Arreglo de Posicion" << std::endl;
+    std::cout << "Posicion de Arrglos" << std::endl;
 
     int indices[]={1,5,4,0,1};
     int tamanios[]={5,6,5,5,5};
